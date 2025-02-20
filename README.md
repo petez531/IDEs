@@ -80,7 +80,7 @@
 - Access: Free
 - Platforms Supported: Windows, Linux, macOS
 ### Rating
-- 3 / 5
+- 2 / 5
 ### Features
 - Extensions
 - Any language is able to be supported
