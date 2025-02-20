@@ -1,6 +1,9 @@
 # IDEs
 
 ## Visual Studio Code
+<details>
+<summary>Review</summary>
+
 ### Basics
 - Editor Name: VS Code
 - Source / Company: Microsoft
@@ -20,8 +23,11 @@
 - Not open source
 - Can be hard to setup
 - Many extensions can make it hard to find what you need
+</details>
 
 ## Notepad ++
+<details>
+<summary>Review</summary>
 ### Basics
 - Editor Name: Notepad++
 - Source / Company: Don Ho
@@ -40,8 +46,11 @@
 - Old interface
 - No integrated debugging features
 - Difficult to work on complex projects
+</details>
 
 ## Vim
+<details>
+<summary>Review</summary>
 ### Basics
 - Editor Name: Vim
 - Source / Company: Bram Moolenaar
@@ -61,3 +70,4 @@
 - Keybinds can be hard to learn
 - Simplistic
 - Needs understanding of command line
+</details>
