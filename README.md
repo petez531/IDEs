@@ -28,6 +28,7 @@
 ## Notepad ++
 <details>
 <summary>Review</summary>
+
 ### Basics
 - Editor Name: Notepad++
 - Source / Company: Don Ho
@@ -51,6 +52,7 @@
 ## Vim
 <details>
 <summary>Review</summary>
+
 ### Basics
 - Editor Name: Vim
 - Source / Company: Bram Moolenaar
