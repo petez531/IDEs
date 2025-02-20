@@ -1,8 +1,7 @@
 # IDEs
 
-## Visual Studio Code
 <details>
-<summary>Review</summary>
+<summary><b>Visual Studio Code</b></summary>
 
 ### Basics
 - Editor Name: VS Code
@@ -25,9 +24,8 @@
 - Many extensions can make it hard to find what you need
 </details>
 
-## Notepad ++
 <details>
-<summary>Review</summary>
+<summary><b>Notepad++</b></summary>
 
 ### Basics
 - Editor Name: Notepad++
@@ -49,9 +47,8 @@
 - Difficult to work on complex projects
 </details>
 
-## Vim
 <details>
-<summary>Review</summary>
+<summary><b>Vim</b></summary>
 
 ### Basics
 - Editor Name: Vim
@@ -72,4 +69,28 @@
 - Keybinds can be hard to learn
 - Simplistic
 - Needs understanding of command line
+</details>
+
+<details>
+<summary><b>GNU Emacs</b></summary>
+
+### Basics
+- Editor Name: GNU Emacs
+- Source / Company: Free Software Foundation
+- Access: Free
+- Platforms Supported: Windows, Linux, macOS
+### Rating
+- 3 / 5
+### Features
+- Extensions
+- Any language is able to be supported
+### Setup / Usage
+### Positives
+- Free
+- Being updated
+- Open source
+### Negatives
+- Simplistic
+- Made for Linux, need extra stuff to make it work on Windows
+- Customizing can be difficult
 </details>
